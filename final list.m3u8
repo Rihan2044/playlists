@@ -35,16 +35,17 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/FH890Y9t/SONY-Sports-Ten5-HD-Logo-CLR.png",10. Sony Ten 5 HD
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg",11. Sony Espn HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/155.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg",11. DUBAI SPORTS HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?v=1
 
 #EXTINF:-27 Nagorik tv group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjXSwLzRYAf2Dnfgk31sdkvqwOf3b97EFYg&usqp=CAU",12. Nagorik Tv
 http://starshare.live:8080/live/Leroy123/Leroy123/3802.ts
 
-#EXTINF:-50  DUBAI SPORTS HD group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg",13. DUBAI SPORTS HD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?v=1
+#EXTINF:-50  DUBAI SPORTS HD group-title="Sports" tvg-logo="",13. 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",14. Star Sports 3
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/QMwhm2Wv/20231116-120920.png",14. Star Sports Select 1 HD
+http://103.84.57.155:8000/play/a09y/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rw66YFvq/20231116-161037.png",15. Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -88,8 +89,8 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/kMfrRJkH/images-2.jpg",28.Ssc 1
 http://ktv.im:8080/live/122334/122334/49652.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="",29. Star Sports Select 1 HD
-http://103.84.57.155:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",29.
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="",30.
 
