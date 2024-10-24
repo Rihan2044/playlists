@@ -6,7 +6,7 @@
 
 
 #EXTINF:-1 TSPORTS group-title="Sports" tvg-logo="https://i.postimg.cc/BnF6231b/images-2.jpg",1. Tsports HD
-http://starshare.live:8080/live/Leroy123/Leroy123/18452.m3u8
+http://176.119.29.52/live.ts?channelId=48010&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yNhcqCF3/20231116-131858.png",2. Star Sports 1 HD
 https://stream.imotv.online/XTRAA/m3u8.php/star1in.m3u8
@@ -141,7 +141,7 @@ https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF:-9 DESH TV group-title="News" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png",46. DESH TV LIVE
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+http://tv.cloudcdn.me:80/live.ts?channelId=93&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 
 
 #EXTINF:-14 NTV HD group-title="News" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png",47. NTV HD
@@ -320,9 +320,11 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #EXTINF:-1 group-title="Kids" tvg-logo="https://en.m.wikipedia.org/wiki/File:PBS_Kids_logo_(2022).svg",96. Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 group-title="Kids" tvg-logo="",97.
+EXTINF:-1 group-title="Kids" tvg-logo="",97. Nick HD+
+http://103.124.251.164:28015/play/a00y/index.m3u8
 
-EXTINF:-1 group-title="Kids" tvg-logo="",98.
+EXTINF:-1 group-title="Kids" tvg-logo="",98. DURONTO TV
+http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 EXTINF:-1 group-title="Kids" tvg-logo="",99.
 
