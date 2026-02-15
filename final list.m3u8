@@ -95,7 +95,7 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 http://ktv.im:8080/live/122334/122334/49652.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/QMwhm2Wv/20231116-120920.png",29. Star Sports Select 1 HD
-http://watchindia.net:8880/live/80817/80817/1070.ts
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/rw66YFvq/20231116-161037.png",30. Star Sports Select 2 HD
 http://watchindia.net:8880/live/80817/80817/1071.ts
@@ -635,4 +635,5 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="",182.
 https://p.liveonlineradio.net/?p=radio-foorti
+
 
